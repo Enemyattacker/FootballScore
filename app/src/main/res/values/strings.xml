@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">COUNTER</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">БАРСА</string>
+    <string name="button2">РЕАЛ</string>
+    <string name="button3">Сбросить счёт</string>
+    <string name="score1">0</string>
+    <string name="score2">0</string>
+    <string name='d'>:</string>
+
+</resources>
